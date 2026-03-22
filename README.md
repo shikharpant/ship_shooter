@@ -2,9 +2,9 @@
 
 A 2.5D arcade shooter game where Shivansh defends a cargo ship from attacking helicopters. Built with vanilla JavaScript and HTML5 Canvas.
 
-![Ship Shooter Game](https://img.shields.io/badge/Version-1.0.0-blue)
-![HTML5](https://img.shields.io/badge/HTML5-Canvas-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Title Screen](screen1.png)
+
+![Gameplay](screen2.png)
 
 ## Game Overview
 
